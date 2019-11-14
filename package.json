@@ -1,0 +1,11 @@
+{
+  "name": "web-rtc",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "tsc -p ./tsconfig.json"
+  },
+  "dependencies": {
+    "typescript": "^3.7.2",
+    "webrtc-adapter": "^7.3.0"
+  }
+}
